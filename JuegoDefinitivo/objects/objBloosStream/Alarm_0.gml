@@ -1,0 +1,2 @@
+/// @description Disappear
+canDisappear = true;
